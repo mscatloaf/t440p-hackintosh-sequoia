@@ -27,7 +27,7 @@ Known issues:
 - webgl is broken in safari but works with chromium and firefox based browsers
 - drm also doesn't workin safari (known problem with hackintosh)
 - installation requires ethernet or full (offline) installer created in macos
-- USB devices can cause failure to go to sleep, sleep works reliably with no USB devices
+- USB devices sometimes cause failure to go to sleep, sleep works reliably with no USB devices
 - Keyboard and mouse will very ocasionally be disabled after sleep which requires forced power off
 - **Make sure to DISABLE security chip in BIOS or you will have issues with sleep**
 
