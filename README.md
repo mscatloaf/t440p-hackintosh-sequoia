@@ -29,7 +29,7 @@ Known issues:
 - installation requires ethernet or full (offline) installer created in macos
 - USB devices can cause failure to go to sleep, sleep works reliably with no USB devices
 - Keyboard and mouse will very ocasionally be disabled after sleep which requires forced power off
-- # Make sure to DISABLE security chip in BIOS or you will have issues with sleep
+- **Make sure to DISABLE security chip in BIOS or you will have issues with sleep**
 
 Not tested:
 - Nvidia GPU (I do not have nvidia model)
