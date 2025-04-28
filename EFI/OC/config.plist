@@ -676,7 +676,7 @@
 				<key>Comment</key>
 				<string>VoodooRMI.kext</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooRMI</string>
 				<key>MaxKernel</key>
@@ -784,7 +784,7 @@
 				<key>Comment</key>
 				<string>RMISMBus.kext</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/RMISMBus</string>
 				<key>MaxKernel</key>
